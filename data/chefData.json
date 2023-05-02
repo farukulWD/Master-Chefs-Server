@@ -6,49 +6,29 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 5000,
-    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.", 
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
-        "name": "Kung Pao Chicken",
+        "recipe_name": "Kung Pao Chicken",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A spicy, stir-fry dish made with chicken, peanuts, vegetables, and chili peppers.",
-        "ingredients": [
-          "boneless chicken breast",
-          "peanuts",
-          "bell peppers",
-          "dried red chili peppers"
-        ],
-        "instructions": [
-          "Marinate the chicken in soy sauce, rice wine, and cornstarch for 20 minutes.",
-          "Stir-fry the chicken, peanuts, and vegetables in a wok until cooked through.",
-          "Add the sauce (made with soy sauce, vinegar, sugar, and cornstarch) and dried red chili peppers, and stir-fry until everything is coated and the sauce has thickened."
-        ]
+        "ingredients": ["boneless", "chicken breast","peanuts","bell peppers","dried red chili peppers."],
+        "instructions": "Marinate the chicken in soy sauce, rice wine, and cornstarch for 20 minutes.,Stir-fry the chicken ,peanuts, and vegetables in a wok until cooked through.,Add the sauce (made with soy sauce, vinegar, sugar, and cornstarch) and dried red chili peppers, and stir-fry until everything is coated and the sauce has thickened."
       },
       {
-        "name": "Hot and Sour Soup",
+        "recipe_name": "Hot and Sour Soup",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A classic Chinese soup made with mushrooms, tofu, bamboo shoots, and a spicy and sour broth.",
-        "ingredients": [
-          "dried wood ear mushrooms",
-          "tofu",
-          "bamboo shoots",
-          "eggs"
-        ],
-        "instructions": [
-          "Soak the dried mushrooms in hot water until they are soft.",
-          "Bring the chicken broth to a boil, and add the mushrooms, bamboo shoots, and tofu.",
-          "Season the soup with vinegar, soy sauce, chili oil, and white pepper.",
-          "Whisk the eggs in a small bowl, and pour them into the soup while stirring slowly."
-        ]
+        "ingredients": ["dried wood", "ear mushrooms","tofu","bamboo shoots","eggs"],
+        "instructions": "Soak the dried mushrooms in hot water until they are soft.,Bring the chicken broth to a boil, and add the mushrooms, bamboo shoots, and tofu.,Season the soup with vinegar, soy sauce, chili oil, and white pepper.,Whisk the eggs in a small bowl, and pour them into the soup while stirring slowly."
       },
       {
-        "name": "Steamed Fish with Ginger and Scallions",
+        "recipe_name": "Steamed Fish with Ginger and Scallions",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A simple and healthy dish made with fresh fish, ginger, scallions, and soy sauce.",
         "ingredients": ["whole fish", "ginger", "scallions", "soy sauce"],
-        "instructions": [
-          "Clean and scale the fish, and place it on a heatproof dish.",
-          "Scatter the ginger and scallions on top of the fish, and drizzle with soy sauce.",
-          "Steam the fish for 10-15 minutes, or until cooked through.",
-          "Garnish with more scallions, and serve."
-        ]
+        "instructions":"Clean and scale the fish, and place it on a heatproof dish.,Scatter the ginger and scallions on top of the fish, and drizzle with soy sauce.,Steam the fish for 10-15 minutes, or until cooked through.,Garnish with more scallions, and serve."
+        
       }
     ]
   },
@@ -59,10 +39,11 @@
     "years_of_experience": 15,
     "number_of_recipes": 50,
     "likes": 1000,
-    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": [
           "chicken breast",
           "peanuts",
@@ -80,6 +61,7 @@
       },
       {
         "recipe_name": "Hot and Sour Soup",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": [
           "chicken broth",
           "tofu",
@@ -97,6 +79,7 @@
       },
       {
         "recipe_name": "Steamed Fish with Ginger and Scallions",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": [
           "whole fish",
           "ginger",
@@ -116,10 +99,11 @@
     "years_of_experience": 20,
     "number_of_recipes": 75,
     "likes": 2500,
-    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "recipe_name": "Ratatouille",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": [
           "eggplant",
           "zucchini",
@@ -138,6 +122,7 @@
       },
       {
         "recipe_name": "Beef Bourguignon",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": [
           "beef chuck roast",
           "bacon",
@@ -156,6 +141,7 @@
       },
       {
         "recipe_name": "Crème Brûlée",
+        "recipe_img":"https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": ["heavy cream", "egg yolks", "sugar", "vanilla extract"],
         "instructions": "1. Preheat oven to 300°F. 2. In a medium saucepan, heat heavy cream over medium heat until hot but not boiling. 3. In a separate bowl, whisk egg yolks and sugar until pale and thick. 4. Slowly pour hot cream into egg mixture, whisking constantly. 5. Stir in vanilla extract. 6. Strain mixture through a fine-mesh sieve into a large measuring cup. 7. Place ramekins in a baking dish and fill with the custard mixture. 8. Fill the baking dish with hot water until it reaches halfway up the sides of the ramekins. 9. Bake for 35-40 minutes or until set. 10. Let cool to room temperature and chill in the refrigerator for at least 2 hours. 11. Sprinkle sugar on top of each crème brûlée and use a kitchen torch to caramelize the sugar until it forms a crispy crust."
       }
@@ -164,14 +150,16 @@
   {
     "id": "4",
     "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+
     "name": "Yuki Nakamura",
     "years_of_experience": 12,
     "number_of_recipes": 80,
     "likes": 8000,
-    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "name": "Beef and Broccoli Stir-Fry",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A classic Chinese stir-fry made with tender beef, fresh broccoli, and a savory sauce.",
         "ingredients": [
           "beef sirloin",
@@ -189,12 +177,9 @@
       },
       {
         "name": "Egg Drop Soup",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A simple and comforting soup made with eggs, chicken broth, and green onions.",
-        "ingredients": [
-          "chicken broth",
-          "eggs",
-          "green onions"
-        ],
+        "ingredients": ["chicken broth", "eggs", "green onions"],
         "instructions": [
           "Bring the chicken broth to a boil.",
           "Beat the eggs in a small bowl, and slowly pour them into the broth while stirring.",
@@ -205,14 +190,9 @@
       },
       {
         "name": "Shrimp Fried Rice",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A classic Chinese fried rice made with shrimp, vegetables, and fluffy rice.",
-        "ingredients": [
-          "shrimp",
-          "carrots",
-          "peas",
-          "scallions",
-          "rice"
-        ],
+        "ingredients": ["shrimp", "carrots", "peas", "scallions", "rice"],
         "instructions": [
           "Cook the rice according to package instructions, and let it cool completely.",
           "Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.",
@@ -230,10 +210,11 @@
     "years_of_experience": 20,
     "number_of_recipes": 100,
     "likes": 8000,
-    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "name": "Mapo Tofu",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A popular Sichuan dish made with tofu and minced meat in a spicy sauce.",
         "ingredients": [
           "soft tofu",
@@ -251,6 +232,7 @@
       },
       {
         "name": "Ma La Xiang Guo",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A spicy stir-fry dish with various ingredients, popular in Sichuan and Chongqing.",
         "ingredients": [
           "sliced beef",
@@ -274,6 +256,7 @@
       },
       {
         "name": "Yangzhou Fried Rice",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A classic Chinese fried rice dish with ham, shrimp, and vegetables.",
         "ingredients": [
           "cooked rice",
@@ -306,6 +289,7 @@
     "recipes": [
       {
         "name": "Mapo Tofu",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A spicy Sichuan dish made with tofu, ground pork, and fermented black beans.",
         "ingredients": [
           "firm tofu",
@@ -323,13 +307,9 @@
       },
       {
         "name": "Egg Drop Soup",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A light and comforting soup made with eggs, chicken broth, and green onions.",
-        "ingredients": [
-          "eggs",
-          "chicken broth",
-          "cornstarch",
-          "green onions"
-        ],
+        "ingredients": ["eggs", "chicken broth", "cornstarch", "green onions"],
         "instructions": [
           "Bring the chicken broth to a boil.",
           "Mix cornstarch with water and stir it into the broth to thicken it.",
@@ -340,6 +320,7 @@
       },
       {
         "name": "Sesame Noodles",
+        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "description": "A classic Chinese dish made with noodles, sesame paste, and a spicy peanut sauce.",
         "ingredients": [
           "Chinese noodles",
