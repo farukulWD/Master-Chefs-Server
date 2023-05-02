@@ -42,7 +42,7 @@
     "years_of_experience": 15,
     "number_of_recipes": 50,
     "likes": 1000,
-    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques.",
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
@@ -56,7 +56,7 @@
           
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Cut chicken breast into small cubes and marinate with soy sauce, vinegar, and cornstarch for 20 minutes. 2. Fry the chicken cubes in hot oil until golden brown. 3. Stir-fry dried chili pepper, ginger, garlic, and green onion until fragrant. 4. Add the fried chicken, peanuts, sugar, soy sauce, vinegar, and cornstarch mixture. 5. Stir-fry for another 1-2 minutes and serve hot."
+        "instructions": "1. Cut chicken breast into small cubes and marinate with soy sauce, vinegar, and cornstarch for 20 minutes. 2. Fry the chicken cubes in hot oil until golden brown. 3. Stir-fry dried chili pepper, ginger, garlic, and green onion until fragrant. 4. Add the fried chicken, peanuts, sugar, soy sauce, vinegar."
       },
       {
         "recipe_name": "Hot and Sour Soup",
@@ -70,7 +70,7 @@
           
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Soak black fungus in water for 20 minutes and cut into small pieces. 2. Bring chicken broth to a boil and add tofu, bamboo shoots, and black fungus. 3. Beat eggs and pour into the soup while stirring. 4. Mix cornstarch with water and add to the soup to thicken it. 5. Season with rice vinegar, soy sauce, white pepper, and sesame oil. 6. Garnish with chopped green onion and serve hot."
+        "instructions": "1. Soak black fungus in water for 20 minutes and cut into small pieces. 2. Bring chicken broth to a boil and add tofu, bamboo shoots, and black fungus. 3. Beat eggs and pour into the soup while stirring. 4. Mix cornstarch with water and add to the soup to thicken it. "
       },
       {
         "recipe_name": "Steamed Fish with Ginger and Scallions",
@@ -83,7 +83,7 @@
           "rice wine"
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Clean and scale the whole fish. 2. Cut ginger and green onion into thin strips. 3. Place the fish on a plate and sprinkle ginger and green onion on top. 4. Mix soy sauce, rice wine, and sesame oil and pour over the fish. 5. Steam the fish for 10-15 minutes or until fully cooked. 6. Serve hot with steamed rice."
+        "instructions": "1. Clean and scale the whole fish. 2. Cut ginger and green onion into thin strips. 3. Place the fish on a plate and sprinkle ginger and green onion on top. 4. Mix soy sauce, rice wine, and sesame oil and pour over the"
       }
     ]
   },
@@ -94,7 +94,7 @@
     "years_of_experience": 20,
     "number_of_recipes": 75,
     "likes": 2500,
-    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques",
     "recipes": [
       {
         "recipe_name": "Ratatouille",
@@ -108,7 +108,7 @@
           
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Cut eggplant, zucchini, and red bell pepper into small cubes. 2. Finely chop onion and garlic. 3. Heat olive oil in a large pot and sauté onion and garlic until translucent. 4. Add eggplant, zucchini, and red bell pepper and cook for 10 minutes. 5. Add chopped tomato, thyme, rosemary, and bay leaf. 6. Cover and simmer for 20-30 minutes or until vegetables are tender. 7. Season with salt and pepper to taste."
+        "instructions": "1. Cut eggplant, zucchini, and red bell pepper into small cubes. 2. Finely chop onion and garlic. 3. Heat olive oil in a large pot and sauté onion and garlic until translucent. 4. Add eggplant, zucchini, and red bell pepper and cook for 10 minutes. 5. Add chopped tomato, thyme, rosemary, and bay leaf."
       },
       {
         "recipe_name": "Beef Bourguignon",
@@ -122,14 +122,14 @@
           
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Cut beef chuck roast into small cubes. 2. Cut bacon and carrots into small pieces. 3. Finely chop onion and garlic. 4. In a large pot, cook bacon until crispy and remove from pot. 5. Sear beef cubes in the bacon fat until browned on all sides. 6. Add onion and garlic and sauté until translucent. 7. Add red wine, beef broth, tomato paste, thyme, and bay leaf. 8. Cover and simmer for 2-3 hours or until beef is tender. 9. Add cooked bacon and carrots and simmer for another 30 minutes. 10. Season with salt and pepper to taste."
+        "instructions": "1. Cut beef chuck roast into small cubes. 2. Cut bacon and carrots into small pieces. 3. Finely chop onion and garlic. 4. In a large pot, cook bacon until crispy and remove from pot. 5. Sear beef cubes in the bacon fat until browned on all sides. 6. Add onion and garlic and sauté until translucent."
       },
       {
         "recipe_name": "Crème Brûlée",
         "recipe_img":"https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
         "ingredients": ["heavy cream", "egg yolks", "sugar", "vanilla extract","sugar"],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": "1. Preheat oven to 300°F. 2. In a medium saucepan, heat heavy cream over medium heat until hot but not boiling. 3. In a separate bowl, whisk egg yolks and sugar until pale and thick. 4. Slowly pour hot cream into egg mixture, whisking constantly. 5. Stir in vanilla extract. 6. Strain mixture through a fine-mesh sieve into a large measuring cup. 7. Place ramekins in a baking dish and fill with the custard mixture. 8. Fill the baking dish with hot water until it reaches halfway up the sides of the ramekins. 9. Bake for 35-40 minutes or until set. 10. Let cool to room temperature and chill in the refrigerator for at least 2 hours. 11. Sprinkle sugar on top of each crème brûlée and use a kitchen torch to caramelize the sugar until it forms a crispy crust."
+        "instructions": "1. Preheat oven to 300°F. 2. In a medium saucepan, heat heavy cream over medium heat until hot but not boiling. 3. In a separate bowl, whisk egg yolks and sugar until pale and thick. 4. Slowly pour hot cream into egg mixture, whisking constantly. 5. Stir in vanilla extract. 6. Strain mixture through"
       }
     ]
   },
@@ -141,7 +141,7 @@
     "years_of_experience": 12,
     "number_of_recipes": 80,
     "likes": 8000,
-    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking ",
     "recipes": [
       {
         "name": "Beef and Broccoli Stir-Fry",
@@ -155,12 +155,8 @@
           "cornstarch"
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Marinate the beef in soy sauce and cornstarch for 15 minutes.",
-          "Blanch the broccoli in boiling water for 2 minutes, then rinse with cold water.",
-          "Stir-fry the beef in a hot wok until browned and cooked through.",
-          "Add the broccoli and the sauce (made with soy sauce, oyster sauce, and cornstarch), and stir-fry until the sauce has thickened and everything is coated."
-        ]
+        "instructions": "Marinate the beef in soy sauce and cornstarch for 15 minutes,Blanch the broccoli in boiling water for 2 minutes, then rinse with cold water,Stir-fry the beef in a hot wok until browned and cooked through,Add the broccoli and the sauce (made with soy sauce, oyster sauce, and cornstarch),"
+        
       },
       {
         "name": "Egg Drop Soup",
@@ -168,13 +164,8 @@
         "description": "A simple and comforting soup made with eggs, chicken broth, and green onions.",
         "ingredients": ["chicken broth","sugar", "eggs", "green onions","sugar"],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Bring the chicken broth to a boil.",
-          "Beat the eggs in a small bowl, and slowly pour them into the broth while stirring.",
-          "Add the chopped green onions, and season with salt and pepper.",
-          "Simmer for a few minutes until the eggs are cooked through.",
-          "Serve hot."
-        ]
+        "instructions":"Bring the chicken broth to a boil.,Beat the eggs in a small bowl, and slowly pour them into the broth while stirring.,Add the chopped green onions, and season with salt and pepper.,Simmer for a few minutes until the eggs are cooked through.,Serve hot."
+        
       },
       {
         "name": "Shrimp Fried Rice",
@@ -182,13 +173,8 @@
         "description": "A classic Chinese fried rice made with shrimp, vegetables, and fluffy rice.",
         "ingredients": ["shrimp", "carrots", "peas", "scallions", "rice"],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Cook the rice according to package instructions, and let it cool completely.",
-          "Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.",
-          "Add the cooled rice, and stir-fry until everything is well combined.",
-          "Season with soy sauce, sesame oil, and white pepper.",
-          "Garnish with chopped scallions, and serve hot."
-        ]
+        "instructions":"Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
+        
       }
     ]
   },
@@ -199,7 +185,7 @@
     "years_of_experience": 20,
     "number_of_recipes": 100,
     "likes": 8000,
-    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
+    "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques,",
     "recipes": [
       {
         "name": "Mapo Tofu",
@@ -213,12 +199,7 @@
           "green onions"
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Sauté the minced pork in a wok until it is cooked through.",
-          "Add the doubanjiang and Sichuan peppercorn and stir-fry until fragrant.",
-          "Add the tofu and some water or broth, and simmer for a few minutes until the tofu is heated through and the sauce has thickened.",
-          "Garnish with chopped green onions and serve hot with rice."
-        ]
+        "instructions": "Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
       },
       {
         "name": "Ma La Xiang Guo",
@@ -233,14 +214,8 @@
           
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Sauté the garlic and dried red chili peppers in a wok until fragrant.",
-          "Add the meat and stir-fry until browned.",
-          "Add the vegetables and stir-fry for a few minutes until they are cooked through.",
-          "Add the sauce (made with soy sauce, vinegar, sugar, and cornstarch), Sichuan peppercorn, and more dried red chili peppers if desired.",
-          "Stir-fry until everything is coated and the sauce has thickened.",
-          "Serve hot with rice."
-        ]
+        "instructions": "Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
+        
       },
       {
         "name": "Yangzhou Fried Rice",
@@ -254,13 +229,8 @@
           "peas"
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Heat some oil in a wok and add the diced ham, shrimp, and vegetables.",
-          "Stir-fry for a few minutes until everything is cooked through.",
-          "Add the cooked rice and stir-fry until it is heated through and well mixed with the other ingredients.",
-          "Add the scrambled eggs, soy sauce, and sesame oil, and stir-fry for another minute.",
-          "Garnish with chopped green onions and serve hot."
-        ]
+        "instructions":"Heat some oil in a wok and add the diced ham, shrimp, and vegetables.,Stir-fry for a few minutes until everything is cooked through.,Add the cooked rice and stir-fry until it is heated through and well mixed with the other ingredients.,Add the scrambled eggs, soy sauce, and sesame oil,"
+        
       }
     ]
   },
@@ -284,13 +254,8 @@
           "sugar"
         ],
         "rating": { "number": 4.5, "badge": "Excellent" },
-        "instructions": [
-          "Cut the tofu into small cubes and soak them in hot water for 10 minutes.",
-          "Brown the ground pork in a wok with some oil and garlic.",
-          "Add the chili flakes, fermented black beans, and Sichuan peppercorns, and stir-fry until fragrant.",
-          "Add the tofu, along with some soy sauce and chicken broth, and simmer until the sauce has thickened.",
-          "Garnish with chopped scallions and serve with steamed rice."
-        ]
+        "instructions":"Cut the tofu into small cubes and soak them in hot water for 10 minutes.,Brown the ground pork in a wok with some oil and garlic.,Add the chili flakes, fermented black beans, and Sichuan peppercorns, and stir-fry until fragrant.,Add the tofu, along with some soy sauce and chicken broth, and simmer until the sauce has thickened.,Garnish with chopped scallions and serve with steamed rice."
+        
       },
       {
         "name": "Egg Drop Soup",
@@ -298,13 +263,7 @@
         "description": "A light and comforting soup made with eggs, chicken broth, and green onions.",
         "ingredients": ["eggs","sugar", "chicken broth", "cornstarch", "green onions"],
         "rating": { "number": 5, "badge": "Excellent" },
-        "instructions": [
-          "Bring the chicken broth to a boil.",
-          "Mix cornstarch with water and stir it into the broth to thicken it.",
-          "Beat the eggs and slowly pour them into the broth while stirring gently.",
-          "Season the soup with salt, white pepper, and sesame oil.",
-          "Garnish with chopped green onions and serve hot."
-        ]
+        "instructions":"Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
       },
       {
         "name": "Sesame Noodles",
@@ -318,12 +277,7 @@
           "rice vinegar"
         ],
         "rating": { "number": 4.3, "badge": "Excellent" },
-        "instructions": [
-          "Cook the noodles according to the package instructions.",
-          "Mix sesame paste, peanut butter, soy sauce, rice vinegar, and chili oil in a bowl to make the sauce.",
-          "Toss the noodles with the sauce until they are well coated.",
-          "Garnish with chopped scallions and sesame seeds, and serve cold or at room temperature."
-        ]
+        "instructions": "Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
       }
     ]
   }
