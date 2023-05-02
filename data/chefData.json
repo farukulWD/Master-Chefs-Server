@@ -6,6 +6,7 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "likes": 5000,
+    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.", 
     "recipes": [
       {
         "name": "Kung Pao Chicken",
@@ -58,6 +59,7 @@
     "years_of_experience": 15,
     "number_of_recipes": 50,
     "likes": 1000,
+    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
@@ -114,6 +116,7 @@
     "years_of_experience": 20,
     "number_of_recipes": 75,
     "likes": 2500,
+    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "recipe_name": "Ratatouille",
@@ -165,6 +168,7 @@
     "years_of_experience": 12,
     "number_of_recipes": 80,
     "likes": 8000,
+    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "name": "Beef and Broccoli Stir-Fry",
@@ -226,6 +230,7 @@
     "years_of_experience": 20,
     "number_of_recipes": 100,
     "likes": 8000,
+    "chef_description":"A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques, a creative flair, and excellent time-management and organizational skills.",
     "recipes": [
       {
         "name": "Mapo Tofu",
