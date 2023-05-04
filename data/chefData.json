@@ -10,7 +10,7 @@
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/SN6BJGL/pexels-tim-douglas-6210959.jpg",
         "description": "A spicy, stir-fry dish made with chicken, peanuts, vegetables, and chili peppers.",
         "ingredients": ["boneless", "chicken breast","peanuts","bell peppers","dried red chili peppers."],
         "rating": { "number": 4.5, "badge": "Excellent" },
@@ -18,7 +18,7 @@
       },
       {
         "recipe_name": "Hot and Sour Soup",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/R6tShrk/Hotand-Sour-Soup.jpg",
         "description": "A classic Chinese soup made with mushrooms, tofu, bamboo shoots, and a spicy and sour broth.",
         "ingredients": ["dried wood", "ear mushrooms","tofu","bamboo shoots","eggs"],
         "rating": { "number": 4.5, "badge": "Excellent" },
@@ -26,7 +26,7 @@
       },
       {
         "recipe_name": "Steamed Fish with Ginger and Scallions",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/3f1wxmR/Steamed-Fishwit-Gingerand-Scallions.jpg",
         "description": "A simple and healthy dish made with fresh fish, ginger, scallions, and soy sauce.",
         "ingredients": ["whole fish", "ginger", "scallions", "soy sauce","scallions"],
         "rating": { "number": 4.5, "badge": "Excellent" },
@@ -37,7 +37,7 @@
   },
   {
     "id": 2,
-    "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+    "picture": "https://i.ibb.co/Hd9PVTK/male-chef-kitchen-cooking.jpg",
     "name": "Chen Xiaoping",
     "years_of_experience": 15,
     "number_of_recipes": 50,
@@ -46,7 +46,7 @@
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/pLJS30K/Sesame-Noodles.jpg",
         "ingredients": [
           "chicken breast",
           "peanuts",
@@ -60,7 +60,7 @@
       },
       {
         "recipe_name": "Hot and Sour Soup",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/0Bj5RdY/MapoTofu.jpg",
         "ingredients": [
           "chicken broth",
           "tofu",
@@ -89,7 +89,7 @@
   },
   {
     "id": 3,
-    "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+    "picture": "https://i.ibb.co/zNZ6JQv/chef3.jpg",
     "name": "Marie Leclerc",
     "years_of_experience": 20,
     "number_of_recipes": 75,
@@ -98,7 +98,7 @@
     "recipes": [
       {
         "recipe_name": "Ratatouille",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/sCRMJq2/Ratatouille.jpg",
         "ingredients": [
           "eggplant",
           "zucchini",
@@ -112,7 +112,7 @@
       },
       {
         "recipe_name": "Beef Bourguignon",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img": "https://i.ibb.co/wMr2g37/Beef-Bourguignon.jpg",
         "ingredients": [
           "beef chuck roast",
           "bacon",
@@ -126,7 +126,7 @@
       },
       {
         "recipe_name": "Crème Brûlée",
-        "recipe_img":"https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_img":"https://i.ibb.co/d5MfmdW/Cr-me-Br-l-e.jpg",
         "ingredients": ["heavy cream", "egg yolks", "sugar", "vanilla extract","sugar"],
         "rating": { "number": 4.5, "badge": "Excellent" },
         "instructions": "1. Preheat oven to 300°F. 2. In a medium saucepan, heat heavy cream over medium heat until hot but not boiling. 3. In a separate bowl, whisk egg yolks and sugar until pale and thick. 4. Slowly pour hot cream into egg mixture, whisking constantly. 5. Stir in vanilla extract. 6. Strain mixture through"
@@ -135,7 +135,7 @@
   },
   {
     "id": "4",
-    "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+    "picture": "https://i.ibb.co/TcBK8VC/chef4.jpg",
 
     "name": "Yuki Nakamura",
     "years_of_experience": 12,
@@ -144,8 +144,8 @@
     "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking ",
     "recipes": [
       {
-        "name": "Beef and Broccoli Stir-Fry",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Beef and Broccoli Stir-Fry",
+        "recipe_img": "https://i.ibb.co/kSRnB6P/Beefnd-Broccoli-Stir-Fry.jpg",
         "description": "A classic Chinese stir-fry made with tender beef, fresh broccoli, and a savory sauce.",
         "ingredients": [
           "beef sirloin",
@@ -159,8 +159,8 @@
         
       },
       {
-        "name": "Egg Drop Soup",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Egg Drop Soup",
+        "recipe_img": "https://i.ibb.co/K5Dmndv/Egg-Drop-Soup.jpg",
         "description": "A simple and comforting soup made with eggs, chicken broth, and green onions.",
         "ingredients": ["chicken broth","sugar", "eggs", "green onions","sugar"],
         "rating": { "number": 4.5, "badge": "Excellent" },
@@ -168,8 +168,8 @@
         
       },
       {
-        "name": "Shrimp Fried Rice",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Shrimp Fried Rice",
+        "recipe_img": "https://i.ibb.co/dJxstj0/Shrimp-Fried-Rice.jpg",
         "description": "A classic Chinese fried rice made with shrimp, vegetables, and fluffy rice.",
         "ingredients": ["shrimp", "carrots", "peas", "scallions", "rice"],
         "rating": { "number": 4.5, "badge": "Excellent" },
@@ -180,7 +180,7 @@
   },
   {
     "id": "5",
-    "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+    "picture": "https://i.ibb.co/K5Ffwn9/chef5.jpg",
     "name": "Wang Yong",
     "years_of_experience": 20,
     "number_of_recipes": 100,
@@ -188,8 +188,8 @@
     "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques,",
     "recipes": [
       {
-        "name": "Mapo Tofu",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Mapo Tofu",
+        "recipe_img": "https://i.ibb.co/TcY1WCN/Mapo-Tofu.jpg",
         "description": "A popular Sichuan dish made with tofu and minced meat in a spicy sauce.",
         "ingredients": [
           "soft tofu",
@@ -202,8 +202,8 @@
         "instructions": "Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
       },
       {
-        "name": "Ma La Xiang Guo",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Ma La Xiang Guo",
+        "recipe_img": "https://i.ibb.co/8jy8ztS/Ma-La-Xiang-Guo.jpg",
         "description": "A spicy stir-fry dish with various ingredients, popular in Sichuan and Chongqing.",
         "ingredients": [
           "sliced beef",
@@ -218,8 +218,8 @@
         
       },
       {
-        "name": "Yangzhou Fried Rice",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Yangzhou Fried Rice",
+        "recipe_img": "https://i.ibb.co/dJxstj0/Shrimp-Fried-Rice.jpg",
         "description": "A classic Chinese fried rice dish with ham, shrimp, and vegetables.",
         "ingredients": [
           "cooked rice",
@@ -236,7 +236,7 @@
   },
   {
     "id": "6",
-    "picture": "https://i.ibb.co/zNwd6Hs/chef1.jpg",
+    "picture": "https://i.ibb.co/1vfs3nB/chef6.jpg",
     "name": "Jia Wei",
     "years_of_experience": 8,
     "chef_description": "A chef is a culinary professional who prepares food in a variety of settings, such as restaurants, hotels, and catering companies. They oversee the entire food preparation process, from selecting ingredients to creating recipes and cooking meals. A successful chef must have a deep knowledge of cooking techniques,",
@@ -244,8 +244,8 @@
     "likes": 2000,
     "recipes": [
       {
-        "name": "Mapo Tofu",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Mapo Tofu",
+        "recipe_img": "https://i.ibb.co/0Bj5RdY/MapoTofu.jpg",
         "description": "A spicy Sichuan dish made with tofu, ground pork, and fermented black beans.",
         "ingredients": [
           "firm tofu",
@@ -259,16 +259,16 @@
         
       },
       {
-        "name": "Egg Drop Soup",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Egg Drop Soup",
+        "recipe_img": "https://i.ibb.co/BrTQDvX/Egg-Drop-Soup.jpg",
         "description": "A light and comforting soup made with eggs, chicken broth, and green onions.",
         "ingredients": ["eggs","sugar", "chicken broth", "cornstarch", "green onions"],
         "rating": { "number": 5, "badge": "Excellent" },
         "instructions":"Cook the rice according to package instructions, and let it cool completely.,Heat some oil in a wok, and stir-fry the shrimp and vegetables until cooked through.,Add the cooled rice, and stir-fry until everything is well combined.,Season with soy sauce, sesame oil, and white pepper."
       },
       {
-        "name": "Sesame Noodles",
-        "recipe_img": "https://i.ibb.co/DGfRyx4/Kung-Pao-Chicken.jpg",
+        "recipe_name": "Sesame Noodles",
+        "recipe_img": "https://i.ibb.co/pLJS30K/Sesame-Noodles.jpg",
         "description": "A classic Chinese dish made with noodles, sesame paste, and a spicy peanut sauce.",
         "ingredients": [
           "Chinese noodles",
